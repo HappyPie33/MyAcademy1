@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
 * Студент: [Валерий Протасов](https://github.com/HappyPie33).
-* Наставник: [Сайтама ВанПанч] (https://github.com/HappyPie33).
+* Наставник: [Сайтама ВанПанчМен] (https://github.com/HappyPie33).
 
 ---
 
