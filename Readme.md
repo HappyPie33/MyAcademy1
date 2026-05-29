@@ -2,6 +2,7 @@
 
 * Студент: [Валерий Протасов](https://github.com/HappyPie33).
 * Наставник: [Сайтама ВанПанчМен] (https://github.com/HappyPie33).
+* Сайт: [Мой проект sedona](https://happypie33.github.io/MyAcademy1/).
 
 ---
 
